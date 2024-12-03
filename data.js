@@ -132,6 +132,7 @@ data = {
             "from": "January 2022",
             "to": "January 2022",
             "desc":[
+                "Java SE 8 Programmer",
                 "Java Certified Foundations Associate"
             ]
         },{
